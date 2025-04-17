@@ -14,7 +14,6 @@ Contents of repo:
  
 
 - __citation-network:__
-- 
 _Note:_ This utilizes the QuantumRandomWalk package and a lot of the code has bee abstracted to keep ease of use
 
     - __Application_of_QRW.ipynb:__ First simulated application of a CTQW to the actual Historical network starting on node 9
